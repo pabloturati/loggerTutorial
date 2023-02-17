@@ -1,0 +1,63 @@
+2023-02-16T22:12:07.183Z [32minfo[39m: 	RESTful API server started on : 3001
+2023-02-16T22:14:31.968Z [32minfo[39m: 	RESTful API server started on : 3001
+2023-02-16T22:15:15.604Z [32minfo[39m: 	RESTful API server started on : 3007
+2023-02-16T22:16:41.740Z [32minfo[39m: 	In get All Products function
+2023-02-16T22:16:41.741Z [32minfo[39m: 	xbox, ps1, ps2, ps3
+2023-02-16T22:17:29.234Z [32minfo[39m: 	RESTful API server started on : 3007
+2023-02-16T22:17:32.806Z [32minfo[39m: 	In get All Products function
+2023-02-16T22:17:32.807Z [32minfo[39m: 	xbox, ps1, ps2, ps3
+2023-02-16T22:17:40.469Z [32minfo[39m: 	In get All Products function
+2023-02-16T22:17:40.473Z [32minfo[39m: 	xbox, ps1, ps2, ps3
+2023-02-16T22:17:46.670Z [32minfo[39m: 	In get All Products function
+2023-02-16T22:17:46.671Z [32minfo[39m: 	xbox, ps1, ps2, ps3
+2023-02-16T22:17:51.629Z [32minfo[39m: 	RESTful API server started on : 3007
+2023-02-16T22:17:54.056Z [32minfo[39m: 	In get All Products function
+2023-02-16T22:18:05.558Z [32minfo[39m: 	RESTful API server started on : 3007
+2023-02-16T22:18:09.820Z [32minfo[39m: 	In get All Products function
+2023-02-16T22:18:16.738Z [32minfo[39m: 	RESTful API server started on : 3007
+2023-02-16T22:18:22.316Z [32minfo[39m: 	RESTful API server started on : 3007
+2023-02-16T22:18:27.004Z [32minfo[39m: 	In get All Products function
+2023-02-16T22:18:30.593Z [32minfo[39m: 	RESTful API server started on : 3007
+2023-02-16T22:18:33.132Z [32minfo[39m: 	In get All Products function
+2023-02-16T22:19:47.688Z [32minfo[39m: 	RESTful API server started on : 3007
+2023-02-16T22:21:11.035Z [32minfo[39m: 	In get All Products function
+2023-02-16T22:21:11.037Z [32minfo[39m: 	xbox, ps1, ps2, ps3
+2023-02-16T22:24:15.750Z [32minfo[39m: 	Request body data = {"name":"imaginary1product","price":"123"}
+2023-02-16T22:24:22.161Z [32minfo[39m: 	RESTful API server started on : 3007
+2023-02-16T22:24:24.373Z [32minfo[39m: 	Request body data = {"name":"imaginary1product","price":"123"}
+2023-02-16T22:24:41.820Z [31merror[39m: 	Req.body error
+2023-02-16T22:25:01.921Z [31merror[39m: 	Req.body error
+2023-02-16T22:25:03.016Z [31merror[39m: 	Req.body error
+2023-02-16T22:26:35.124Z [32minfo[39m: RESTful API server started on : 3007
+2023-02-16T22:26:39.234Z [31merror[39m: Req.body error
+2023-02-16T22:26:48.548Z [31merror[39m: Req.body error
+2023-02-16T22:26:56.121Z [32minfo[39m: Request body data = {"name":"imaginary1product","price":"123"}
+2023-02-16T22:27:01.054Z [32minfo[39m: 	RESTful API server started on : 3007
+2023-02-16T22:27:05.683Z [32minfo[39m: 	Request body data = {"name":"imaginary1product","price":"123"}
+2023-02-16T22:27:07.964Z [32minfo[39m: 	Request body data = {"name":"imaginary1product","price":"123"}
+2023-02-16T22:27:08.602Z [32minfo[39m: 	Request body data = {"name":"imaginary1product","price":"123"}
+2023-02-16T22:27:26.880Z [31merror[39m: 	Req.body error
+2023-02-16T22:27:27.926Z [31merror[39m: 	Req.body error
+2023-02-16T22:28:17.511Z [32minfo[39m: 	RESTful API server started on : 3007
+2023-02-16T22:28:21.867Z [31merror[39m: 	Req.body error
+2023-02-16T22:28:23.787Z [31merror[39m: 	Req.body error
+2023-02-16T22:28:34.293Z [32minfo[39m: 	Request body data = {"name":"imaginary1product","price":"123"}
+2023-02-16T22:28:35.139Z [32minfo[39m: 	Request body data = {"name":"imaginary1product","price":"123"}
+2023-02-16T22:28:35.763Z [32minfo[39m: 	Request body data = {"name":"imaginary1product","price":"123"}
+2023-02-16T22:28:36.368Z [32minfo[39m: 	Request body data = {"name":"imaginary1product","price":"123"}
+2023-02-16T22:29:03.454Z [32minfo[39m: 	RESTful API server started on : 3007
+2023-02-16T22:29:08.095Z [32minfo[39m: 	Request body data = {"name":"imaginary1product","price":"123"}
+2023-02-16T22:29:09.055Z [32minfo[39m: 	Request body data = {"name":"imaginary1product","price":"123"}
+2023-02-16T22:29:09.343Z [32minfo[39m: 	Request body data = {"name":"imaginary1product","price":"123"}
+2023-02-16T22:29:23.515Z [32minfo[39m: 	Request body data = {"name":"asdfasdf","price":"12as1233"}
+2023-02-16T22:29:35.524Z [32minfo[39m: 	In get All Products function
+2023-02-16T22:29:35.527Z [32minfo[39m: 	xbox, ps1, ps2, ps3
+2023-02-16T22:29:36.165Z [32minfo[39m: 	In get All Products function
+2023-02-16T22:29:36.167Z [32minfo[39m: 	xbox, ps1, ps2, ps3
+2023-02-16T22:29:36.932Z [32minfo[39m: 	In get All Products function
+2023-02-16T22:29:36.933Z [32minfo[39m: 	xbox, ps1, ps2, ps3
+2023-02-16T22:29:37.376Z [32minfo[39m: 	In get All Products function
+2023-02-16T22:29:37.377Z [32minfo[39m: 	xbox, ps1, ps2, ps3
+2023-02-16T22:35:39.506Z [32minfo[39m: 	RESTful API server started on : 3007
+2023-02-16T22:37:21.266Z [32minfo[39m: 	RESTful API server started on : 3007
+2023-02-16T22:37:33.801Z [32minfo[39m: 	In get All Products function
